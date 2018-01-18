@@ -1,4 +1,5 @@
-<div id="app">
+<template>
+	<div id="app">
 		<DamnTimepicker/>
 	</div>
 </template>
@@ -13,3 +14,6 @@ export default {
 	}
 }
 </script>
+
+<style>
+</style>
